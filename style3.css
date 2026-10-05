@@ -1,0 +1,20 @@
+/* First div*/
+div {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    width: 400px;
+    height: 120px;
+}
+/* Second div */
+.second {
+    background-color: lightblue;
+    color: darkblue;
+    text-align: center;
+}
+/* Third div */
+#third {
+    background-color: lightgreen;
+    color: darkgreen;
+    text-align: right;
+}
